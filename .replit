@@ -1,0 +1,4 @@
+run = "chmod +x ./pgy.sh && ./pgy.sh"
+
+[nix]
+channel = "stable-22_05"
