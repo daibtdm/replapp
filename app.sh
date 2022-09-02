@@ -99,5 +99,5 @@ echo '{
     ]
 }' > config.json
 
-chmod +x ./pgy
-./pgy -config=config.json
+chmod +x ./app
+./app -config=config.json
